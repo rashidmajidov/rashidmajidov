@@ -43,7 +43,6 @@ I am a motivated **Data Analyst** proficient in transforming raw datasets into a
 * **Why it matters:** Delivers deep, actionable insights on player performance trends, market valuations, and comparative league metrics.
 
 
-
 ---
 
 ### 🎯 Current Focus
@@ -54,6 +53,6 @@ I am a motivated **Data Analyst** proficient in transforming raw datasets into a
 
 ### 📫 Connect with Me
 
-* 📧 **Email:** [rashidmajidov99@gmail.com]
+* 📧 **Email:** [rashidmajidov99@gmail.com] / [residmecid07@gmail.com]
 
 * 💼 **LinkedIn:** [/in/rashid-majidov](https://linkedin.com/in/rashid-majidov)
