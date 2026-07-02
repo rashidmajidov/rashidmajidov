@@ -24,7 +24,7 @@ I am a motivated **Data Analyst** proficient in transforming raw datasets into a
 * **Stack:** Python, Tableau / Power BI, Excel
 
 
-* **Links:** [Source Code](https://www.google.com/search?q=https://github.com/rashidmajidov/stock-market-dashboard)
+* **Links:** [Source Code](https://github.com/rashidmajidov/stock_market_dashboard)
 
 * **Why it matters:** Enables users to monitor leading tech stocks effectively and make well-informed investment decisions based on live trends.
 
@@ -38,7 +38,7 @@ I am a motivated **Data Analyst** proficient in transforming raw datasets into a
 * **Stack:** Python, SQL, Statistical Modeling
 
 
-* **Links:** [Source Code](https://www.google.com/search?q=https://github.com/rashidmajidov/european-football-analysis)
+* **Links:** [Source Code](https://github.com/rashidmajidov/european_football_analysis)
 
 * **Why it matters:** Delivers deep, actionable insights on player performance trends, market valuations, and comparative league metrics.
 
@@ -54,6 +54,6 @@ I am a motivated **Data Analyst** proficient in transforming raw datasets into a
 
 ### 📫 Connect with Me
 
-* 📧 **Email:** [rashidmajidov99@gmail.com](https://www.google.com/search?q=mailto%3Arashidmajidov99%40gmail.com)
+* 📧 **Email:** [rashidmajidov99@gmail.com]
 
-* 💼 **LinkedIn:** [/in/rashid-majidov](https://www.google.com/search?q=https://linkedin.com/in/rashid-majidov)
+* 💼 **LinkedIn:** [/in/rashid-majidov](https://linkedin.com/in/rashid-majidov)
